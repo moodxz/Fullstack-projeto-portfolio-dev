@@ -29,3 +29,9 @@
     --text-md2: 400 16px/140% var(--font-maven);
     --text-sm2: 400 14px/140% var(--font-maven);
 }
+
+body {
+    background: var(--gray-200);
+    color: var(--gray-500);
+    font: var(--text-sm);
+}
