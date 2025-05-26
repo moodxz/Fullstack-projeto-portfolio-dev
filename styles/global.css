@@ -37,8 +37,23 @@ body {
     font: var(--text-sm);
 }
 
-h1, h2, h2 {
-    font: inherit;
+h1 {
+    font: var(--text-lg);
+    color: var(--gray-600);
+}
+
+h2 {
+    font: var(--text-md);
+    color: var(--gray-600);
+}
+
+h3 {
+    font: var(--text-sm);
+    color: var(--gray-600);
+}
+
+p {
+    font: var(--text-sm2);
 }
 
 a {

@@ -23,9 +23,6 @@
         }
         
         h1 {
-            font: var(--text-lg);
-            color: var(--gray-600);
-            
             margin-block: 8px 20px;
         }
         
