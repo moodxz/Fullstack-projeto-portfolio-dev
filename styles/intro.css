@@ -15,8 +15,6 @@
         }
 
         span {
-            font: var(--subtitle);
-            
             span {
                 color: var(--red);
             }

@@ -37,6 +37,10 @@ body {
     font: var(--text-sm);
 }
 
+span {
+    font: var(--subtitle);
+}
+
 h1 {
     font: var(--text-lg);
     color: var(--gray-600);
